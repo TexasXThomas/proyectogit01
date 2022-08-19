@@ -53,7 +53,7 @@
   <?php require 'views/footer.php';?>
 
 
-  <!-- TEST -->
+  <!-- TESTS -->
   <!-- importo el javascript-->
   <script src="<?php echo constant('URL'); ?>public/js/articulos/listarJQ.js"></script>
   <!-- jQuery library -->
